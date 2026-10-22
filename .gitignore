@@ -1,0 +1,8 @@
+# Build inputs: kept local (third-party source files / intermediates).
+# The site only needs assets/neal.glb and assets/scan.webp.
+assets/mixamo/
+assets/sources/
+assets/scan.glb
+assets/scan_4k.jpg
+assets/*.fbx
+.DS_Store
